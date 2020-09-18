@@ -30,7 +30,15 @@
 }
 .saaya-health-div,
 .nextu-div {
+  margin-right: 20px;
+  height: 100px;
+  width: 200px;
   cursor: pointer;
+}
+
+.saaya-health-div img {
+  height: 100%;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -42,3 +50,4 @@
     text-align: center;
   }
 }
+

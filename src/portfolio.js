@@ -153,8 +153,8 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "BELOW ARE PROJECTS THAT I HAVE WORKED ON",
   projects: [
     {
       image: require("./assets/images/luckydraws.png"),
@@ -167,6 +167,10 @@ const bigProjects = {
     {
       image: require("./assets/images/booking.png"),
       link: "https://compassionate-hoover-695d8c.netlify.app/"
+    },
+    {
+      image: require("./assets/images/rapsberryimage.png"),
+      link: "https://fervent-johnson-169278.netlify.app/"
     }
   ]
 };
