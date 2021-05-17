@@ -113,7 +113,7 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Full Stack Developer",  
+      role: "Software Engineer Team Lead",  
       company: "Dosh Services",
       companylogo: require("./assets/images/dosh-logo.png"),
       date: "August 2020 – Present",
@@ -169,9 +169,17 @@ const bigProjects = {
       link: "https://compassionate-hoover-695d8c.netlify.app/"
     },
     {
-      image: require("./assets/images/rapsberryimage.png"),
-      link: "https://fervent-johnson-169278.netlify.app/"
-    }
+      image: require("./assets/images/oliveagro.png"),
+      link: "https://oliveagro.org"
+    },
+    {
+      image: require("./assets/images/idealbitcoin.png"),
+      link: "https://idealbitcoin.ltd"
+    },
+    {
+      image: require("./assets/images/exchanger101.png"),
+      link: "https://exchanger101.com"
+    },
   ]
 };
 
